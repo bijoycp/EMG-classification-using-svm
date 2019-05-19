@@ -1,7 +1,7 @@
 # EMG-classification-using-svm
 Surface Electromyographic  (EMG) signal classification for normal and abnormal data
 ## Output
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SuCrTAbXpVs/0.jpg)](https://www.youtube.com/watch?v=SuCrTAbXpVs)
 ![Screenshot1](https://user-images.githubusercontent.com/18006433/57949387-dceda200-7901-11e9-8407-0c25c4bd7e26.png)
 
 ### Normal
